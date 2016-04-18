@@ -1,0 +1,15 @@
+This is a rudimentary Database Engine that is loosely based on MySQL, which I call CrazyBase.
+
+CrazyBase operates completely on command line i.e no Graphical User Interace exists.
+
+It supports the basic MySQL functionalities like create, insert, delete and show tables|databases(schemas).
+
+Execution Instructions
+
+ 1) Compile and Run MakeInformationSchema.java
+ 
+ 2) Compile and Run CrazyBase.java
+ 
+Requirements
+
+ 1) Java 8
